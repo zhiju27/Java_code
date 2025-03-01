@@ -1,6 +1,6 @@
 package base;
 /**
- * while型煦暖结构
+ * while型循环结构
  * @author yyy
  */
 public class TestWhile {
