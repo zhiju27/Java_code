@@ -10,5 +10,8 @@ public class TestFor {
             sum += i;
         }
         System.out.println(sum);
+        for (int j = 90;j > 0 ;j -= 3){
+            System.out.print(j + "\t");
+        }
     }
 }
