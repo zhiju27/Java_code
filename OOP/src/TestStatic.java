@@ -1,6 +1,7 @@
 /**
  * 测试static
  */
+
 public class TestStatic {
     int id;
     String name;
